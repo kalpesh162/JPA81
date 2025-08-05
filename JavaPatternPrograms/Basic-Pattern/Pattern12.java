@@ -1,5 +1,9 @@
 /*
-
+eeeee
+ddddd
+ccccc
+bbbbb
+aaaaa
 */
 class Pattern12{
 	public static void main(String[] args) {
