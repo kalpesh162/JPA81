@@ -1,4 +1,5 @@
-<img width="1780" height="424" alt="Pattern14" src="https://github.com/user-attachments/assets/9cc90f9c-d076-476d-94b3-ae05eafe0916" />Pattern1 :
+
+Pattern1 :
 <img width="1908" height="831" alt="Pattern1" src="https://github.com/user-attachments/assets/c82be097-d8b3-404e-84e5-c7a75bdae3cc" />
 
 Pattern2 :
