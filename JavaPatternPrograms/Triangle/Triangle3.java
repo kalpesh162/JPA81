@@ -1,5 +1,9 @@
 /*
-
+5
+44
+333
+2222
+11111
 */
 class Triangle3{
 	public static void main(String[] args) {
