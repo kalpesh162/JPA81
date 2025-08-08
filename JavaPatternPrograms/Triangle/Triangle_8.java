@@ -1,5 +1,9 @@
 /*
-
+A
+BB
+CCC
+DDDD
+EEEEE
 */
 class Triangle_8{
 	public static void main(String[] args) {
